@@ -1,2 +1,4 @@
 # uOS
-Unintrusive Operating System, HUD for augmented reality devices.
+Unintrusive Operating System, a HUD for augmented reality devices.
+
+...when I'm not studying for exams
